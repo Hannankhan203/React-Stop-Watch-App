@@ -1,6 +1,6 @@
 # React Stopwatch Application
 
-![Stopwatch Demo](https://i.imgur.com/J7QZ7rL.gif) *(example image placeholder)*
+![Stopwatch Demo](React Stop Watch App.png) *(example image placeholder)*
 
 A modern, responsive stopwatch application built with React Hooks. Features start, stop, and reset functionality with a clean UI design.
 
